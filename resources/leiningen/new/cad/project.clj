@@ -8,5 +8,4 @@
                  [scad-clj "0.5.3"]
                  [environ "1.1.0"]]
   :plugins [[lein-environ "1.1.0"]]
-  :main ^:skip-aot {{name}}.core
-  :eval-in-leiningen true)
+  :main ^:skip-aot {{name}}.core)
