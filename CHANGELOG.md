@@ -1,6 +1,10 @@
 # Change Log
 This log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
+## Unreleased
+### Changed
+- Updated version of `scad-tarmi`.
+
 ## [0.2.0]
 ### Added
 - Added `scad-tarmi` as a default dependency.
