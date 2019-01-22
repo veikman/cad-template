@@ -4,6 +4,7 @@ This log follows the conventions of [keepachangelog.com](http://keepachangelog.c
 ## Unreleased
 ### Changed
 - Updated version of `scad-tarmi`.
+- Added an explicit system exit call to cut short a lingering `pmap`.
 
 ## [0.2.0]
 ### Added

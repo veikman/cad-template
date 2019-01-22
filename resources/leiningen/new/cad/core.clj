@@ -61,4 +61,5 @@
      (get-in args [:options :help]) (help-text)
      (get-in args [:options :version]) (version)
      (some? (:errors args)) (error)
-     :else (write-all (:options args)))))
+     :else (write-all (:options args))))
+  (System/exit 0))
