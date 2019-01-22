@@ -1,7 +1,7 @@
 # Change Log
 This log follows the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
-## Unreleased
+## [0.2.1]
 ### Changed
 - Updated version of `scad-tarmi`.
 - Added an explicit system exit call to cut short a lingering `pmap`.
@@ -24,6 +24,7 @@ This log follows the conventions of [keepachangelog.com](http://keepachangelog.c
 - Basic CLI functions for new projects.
 - GPL-under-EPL license for this and new projects.
 
+[0.2.1]: https://github.com/veikman/cad-template/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/veikman/cad-template/compare/v0.1.1...v0.2.0
 [0.1.1]: https://github.com/veikman/cad-template/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/veikman/cad-template/compare/55db80f...v0.1.0
