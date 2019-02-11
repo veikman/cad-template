@@ -1,4 +1,4 @@
-(defproject cad/lein-template "0.2.1"
+(defproject cad/lein-template "0.3.0-SNAPSHOT"
   :description "CAD template"
   :url "https://github.com/veikman/cad-template"
   :license {:name "EPL-2.0 OR GPL-3.0-or-later"
