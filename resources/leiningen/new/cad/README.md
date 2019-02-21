@@ -11,7 +11,7 @@ under `output/scad` and, optionally, STL files for slicing and 3D printing.
 
 Copyright © 2019 Viktor Eikman
 
-This software is distributed under the [Eclipse Public License](LICENSE-EPL),
+This software is distributed under the [Eclipse Public License](LICENSE-EPL)
 (EPL) v2.0 or any later version thereof. This software may also be made
 available under the [GNU General Public License](LICENSE-GPL) (GPL), v3.0 or
 any later version thereof, as a secondary license hereby granted under the
