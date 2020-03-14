@@ -2,8 +2,6 @@
 
 (ns {{name}}.core
   (:require [clojure.tools.cli :refer [parse-opts]]
-            [clojure.java.shell :refer [sh]]
-            [clojure.java.io :refer [make-parents]]
             [environ.core :refer [env]]
             [scad-app.core :refer [filter-by-name build-all]]
             [{{name}}.models :as models])
