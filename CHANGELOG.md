@@ -5,6 +5,13 @@ This log follows the conventions of
 ## [Unreleased]
 Nothing yet.
 
+## [0.5.0] - 2021-04-04
+### Added
+- Updated version of `scad-app`.
+
+### Fixed
+- Removed copyright name and year from generated boilerplate.
+
 ## [0.4.0] - 2020-09-07
 ### Added
 - Updated versions of `scad-app` and `scad-tarmi`.
@@ -50,8 +57,9 @@ Nothing yet.
 - Basic CLI functions for new projects.
 - GPL-under-EPL license for this and new projects.
 
-[Unreleased]: https://github.com/veikman/cad-template/compare/v0.4.0...HEAD
-[0.3.2]: https://github.com/veikman/cad-template/compare/v0.3.2...v0.4.0
+[Unreleased]: https://github.com/veikman/cad-template/compare/v0.5.0...HEAD
+[0.5.0]: https://github.com/veikman/cad-template/compare/v0.4.0...v0.5.0
+[0.4.0]: https://github.com/veikman/cad-template/compare/v0.3.2...v0.4.0
 [0.3.2]: https://github.com/veikman/cad-template/compare/v0.3.1...v0.3.2
 [0.3.1]: https://github.com/veikman/cad-template/compare/v0.3.0...v0.3.1
 [0.3.0]: https://github.com/veikman/cad-template/compare/v0.2.1...v0.3.0

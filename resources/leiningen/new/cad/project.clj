@@ -6,7 +6,7 @@
   :dependencies [[org.clojure/clojure "1.10.0"]
                  [org.clojure/tools.cli "0.4.1"]
                  [environ "1.1.0"]
-                 [scad-app "0.3.0"]
+                 [scad-app "1.0.0"]
                  [scad-clj "0.5.3"]
                  [scad-tarmi "0.6.0"]]
   :plugins [[lein-environ "1.1.0"]]

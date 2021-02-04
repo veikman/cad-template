@@ -9,7 +9,7 @@ under `output/scad` and, optionally, STL files for slicing and 3D printing.
 
 ## License
 
-Copyright © 2020 Viktor Eikman
+Copyright © FIXME
 
 This software is distributed under the [Eclipse Public License](LICENSE-EPL)
 (EPL) v2.0 or any later version thereof. This software may also be made
