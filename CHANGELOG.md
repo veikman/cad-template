@@ -5,6 +5,7 @@ This log follows the conventions of
 ## [Unreleased]
 Nothing yet.
 
+## [0.6.0] - 2022-08-21
 ### Changed
 - `scad-clj.model` is now aliased as `m` rather than `model`.
   This reduces clutter.
@@ -68,7 +69,8 @@ Nothing yet.
 - Basic CLI functions for new projects.
 - GPL-under-EPL license for this and new projects.
 
-[Unreleased]: https://github.com/veikman/cad-template/compare/v0.5.0...HEAD
+[Unreleased]: https://github.com/veikman/cad-template/compare/v0.6.0...HEAD
+[0.6.0]: https://github.com/veikman/cad-template/compare/v0.5.0...v0.6.0
 [0.5.0]: https://github.com/veikman/cad-template/compare/v0.4.0...v0.5.0
 [0.4.0]: https://github.com/veikman/cad-template/compare/v0.3.2...v0.4.0
 [0.3.2]: https://github.com/veikman/cad-template/compare/v0.3.1...v0.3.2
