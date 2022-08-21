@@ -5,7 +5,13 @@ This log follows the conventions of
 ## [Unreleased]
 Nothing yet.
 
+### Changed
+- `scad-clj.model` is now aliased as `m` rather than `model`.
+  This reduces clutter.
+
 ### Added
+- A reference to `loft` in generated code. Like π, this is used more often than
+  not.
 - `nohup.out` is now ignored by Git. This serves the workflow of opening
   OpenSCAD in the background under `nohup` (Linux).
 - The current year in the copyright statement of a generated `README`.

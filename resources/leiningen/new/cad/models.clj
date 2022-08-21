@@ -1,10 +1,11 @@
 ;;; Geometry.
 
 (ns {{name}}.models
-  (:require [scad-clj.model :as model]
-            [scad-tarmi.core :refer [π]]))
+  (:require [scad-clj.model :as m]
+            [scad-tarmi.core :refer [π]]
+            [scad-tarmi.util :refer [loft]]))
 
 (defn base-model
   "Describe the geometry for {{name}}."
   [options]
-  (model/cube 1 2 4))
+  (m/cube 1 2 4))
