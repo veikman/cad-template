@@ -17,7 +17,7 @@ with further instructions.
 
 ## License
 
-Copyright © 2018–2021 Viktor Eikman
+Copyright © 2018–2022 Viktor Eikman
 
 This software is distributed under the [Eclipse Public License](LICENSE-EPL),
 (EPL) v2.0 or any later version thereof. This software may also be made
