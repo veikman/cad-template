@@ -8,6 +8,7 @@ Nothing yet.
 ### Added
 - `nohup.out` is now ignored by Git. This serves the workflow of opening
   OpenSCAD in the background under `nohup` (Linux).
+- The current year in the copyright statement of a generated `README`.
 
 ## [0.5.0] - 2021-04-04
 ### Added
