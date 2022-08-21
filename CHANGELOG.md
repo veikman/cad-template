@@ -5,6 +5,10 @@ This log follows the conventions of
 ## [Unreleased]
 Nothing yet.
 
+### Added
+- `nohup.out` is now ignored by Git. This serves the workflow of opening
+  OpenSCAD in the background under `nohup` (Linux).
+
 ## [0.5.0] - 2021-04-04
 ### Added
 - Updated version of `scad-app`.

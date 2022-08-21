@@ -4,6 +4,7 @@
 /output
 pom.xml
 pom.xml.asc
+nohup.out
 *.jar
 *.class
 /.lein-*
